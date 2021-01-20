@@ -3,7 +3,7 @@
 # Charter vs. District
 As is typically expected, Charter schools are smaller in student population and higher performance scores. I would surmise (but don't have the data in this set to say for certain) that this is due to better (smaller) student to teacher ratios. That would be one bit of information that I think could be very helpful to our analysis.
 
-
+![Screen Shot 2021-01-20 at 12 22 57 PM](https://user-images.githubusercontent.com/75045133/105230687-97439c80-5b1a-11eb-8f7e-988cc96621a8.png)
 
 
 # School Size
