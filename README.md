@@ -6,7 +6,9 @@ As is typically expected, Charter schools are smaller in student population and 
 ![Screen Shot 2021-01-20 at 12 22 57 PM](https://user-images.githubusercontent.com/75045133/105230687-97439c80-5b1a-11eb-8f7e-988cc96621a8.png)
 
 #Top Performing Schools
-![Screen Shot 2021-01-20 at 12 23 50 PM](https://user-images.githubusercontent.com/75045133/105230779-b9d5b580-5b1a-11eb-8e3f-fd42f6b99421.png)
+
+#Bottom Performing Schools
+
 
 # School Size
 Similar and potentially related to the Charter vs. District observation above, larger school size appears to be directly correlated negatively with all of the performance metrics analyzed in this data set. The greater the student population bucket, the lower the average scores in each category (math, reading, percent passing in each and percent overall passing).(See table below)
