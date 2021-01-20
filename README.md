@@ -6,6 +6,7 @@ As is typically expected, Charter schools are smaller in student population and 
 ![Screen Shot 2021-01-20 at 12 22 57 PM](https://user-images.githubusercontent.com/75045133/105230687-97439c80-5b1a-11eb-8f7e-988cc96621a8.png)
 
 #Top Performing Schools
+![Screen Shot 2021-01-20 at 12 28 57 PM](https://user-images.githubusercontent.com/75045133/105232810-c60f4200-5b1d-11eb-86ea-9da7d9b0edcc.png)
 
 #Bottom Performing Schools
 
