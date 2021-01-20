@@ -10,3 +10,5 @@ https://github.com/briennecole/pandas_challenge/issues/1#issue-790267789
 
 # School Spend Per Student
 Counterintuitively and to my surprise, this data reflects a negative correlation between our Budget Per Student buckets and scores in every score metric. It's interesting but a more detailed look at each schools budget would be more helpful. (See table below) 
+
+![Screen Shot 2021-01-20 at 12 17 13 PM](https://user-images.githubusercontent.com/75045133/105229973-92cab400-5b19-11eb-9726-6f98c103fe47.png)
