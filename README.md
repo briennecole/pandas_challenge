@@ -9,13 +9,12 @@ As is typically expected, Charter schools are smaller in student population and 
 ![Screen Shot 2021-01-20 at 12 28 57 PM](https://user-images.githubusercontent.com/75045133/105232810-c60f4200-5b1d-11eb-86ea-9da7d9b0edcc.png)
 
 #Bottom Performing Schools
-
+![Screen Shot 2021-01-20 at 12 29 10 PM](https://user-images.githubusercontent.com/75045133/105232877-e7702e00-5b1d-11eb-8b77-dcf846c5a905.png)
 
 # School Size
 Similar and potentially related to the Charter vs. District observation above, larger school size appears to be directly correlated negatively with all of the performance metrics analyzed in this data set. The greater the student population bucket, the lower the average scores in each category (math, reading, percent passing in each and percent overall passing).(See table below)
 
 ![Screen Shot 2021-01-20 at 11 48 37 AM](https://user-images.githubusercontent.com/75045133/105230262-efc66a00-5b19-11eb-85a5-8a6e4c19d342.png)
-
 
 # School Spend Per Student
 Counterintuitively and to my surprise, this data reflects a negative correlation between our Budget Per Student buckets and scores in every score metric. It's interesting but a more detailed look at each schools budget would be more helpful. (See table below) 
